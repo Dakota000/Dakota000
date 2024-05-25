@@ -1,15 +1,11 @@
 <p align="center"><img src="https://media0.giphy.com/media/ZxD0jpZ5s0nMfvJSF1/giphy.gif?raw=true" alt="Sublime's custom image"/></p>
 
 <h1 align="center">Hi 👋, I'm Dakota</h1>
+
 <h3 align="center">I'm a 🌦️ Seattle based software engineer coding full-stack Javascript applications.</h3>
+ 👨‍💻 All of my projects are available at [https://dakotadev.netlify.app/](https://dakotadev.netlify.app/)
 
-- 🌱 I’m currently learning **node.js**
-
-- 👨‍💻 All of my projects are available at [https://dakotadev.netlify.app/](https://dakotadev.netlify.app/)
-
-- 📫 How to reach me **dakotasean378@gmail.com**
-
-- ⚡ Fun fact **minecraft da best**
+ 📫 You to reach me at **dakotasean378@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
